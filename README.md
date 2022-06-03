@@ -7,9 +7,6 @@ I'm a Mobile Engineer based in the beautiful mountainous town of Buea, Cameroon.
 - 😄 Pronouns: She/Her
 <br/>
 
-<a href="https://app.daily.dev/lkmandy"><img src="https://api.daily.dev/devcards/cd9e02d8ef4b4091ac672c51e631c465.png?r=00i" width="400" alt="Amanda Shafack's Dev Card" align="right"/></a>
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>&nbsp;
@@ -26,6 +23,10 @@ I'm a Mobile Engineer based in the beautiful mountainous town of Buea, Cameroon.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmandy&layout=compact)](https://github.com/lkmandy/github-readme-stats)
 <br/>
+<br/>
+
+### 📘: Daily Dev Stats :
+<a href="https://app.daily.dev/lkmandy"><img src="https://api.daily.dev/devcards/cd9e02d8ef4b4091ac672c51e631c465.png?r=00i" width="330" height=400 alt="Amanda Shafack's Dev Card" align="left"/></a>
 
 <!-- :writing_hand: Blog Posts -->
 
