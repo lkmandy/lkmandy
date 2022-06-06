@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Mobile Engineer based in the beautiful mountainous town of Buea, Cameroon.
+I'm a Mobile Engineer based in Douala, Cameroon. I love contributing to Open-source projects and building tech communities
 
 - 🔭 I’m currently working on Flutter/Dart
 <!-- - 🌱 I’m currently learning  -->
@@ -17,17 +17,17 @@ I'm a Mobile Engineer based in the beautiful mountainous town of Buea, Cameroon.
 <br/>
 
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lkmandy&theme=vue-dark)](https://git.io/streak-stats). 
+ -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmandy&layout=compact)](https://github.com/lkmandy/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmandy&layout=compact)](https://github.com/lkmandy/github-readme-stats)
 <br/>
-<br/>
+<br/> -->
 
-### 📘: Daily Dev Stats :
+<!-- ### 📘: Daily Dev Stats :
 <a href="https://app.daily.dev/lkmandy"><img src="https://api.daily.dev/devcards/cd9e02d8ef4b4091ac672c51e631c465.png?r=00i" width="330" height=400 alt="Amanda Shafack's Dev Card" align="left"/></a>
-
+ -->
 <!-- :writing_hand: Blog Posts -->
 
 <!--
