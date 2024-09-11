@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Mobile Engineer based in Douala, Cameroon. I love contributing to Open-source projects and building tech communities
+I'm Amanda, a Flutter Developer.
 
 - 🔭 I’m currently working on Flutter/Dart
 <!-- - 🌱 I’m currently learning  -->
